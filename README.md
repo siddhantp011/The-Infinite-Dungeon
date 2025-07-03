@@ -38,12 +38,14 @@ Then enter commands like:
 •	> open the door
 •	> attack the goblin
 •	> use health potion
+
 🎮 Sample Gameplay
 DM: You awaken in a damp, torch-lit chamber. There are doors to the north and east.
 You: I open the north door.
 DM: The door creaks open, revealing a long hallway. At the far end, a glowing rune pulsates on the wall.
 You: I walk towards the rune.
 DM: As you approach, the rune hums louder. Suddenly, the floor gives way beneath your feet!
+
 📁 Project Structure
 •	main.py               # Entry point for the game
 •	game_engine.py        # Core logic and state management
@@ -52,11 +54,13 @@ DM: As you approach, the rune hums louder. Suddenly, the floor gives way beneath
 •	requirements.txt      # List of Python dependencies
 •	README.md             # Project overview
 •	.env (optional)       # For storing the OpenAI API key securely
+
 🛠️ Technologies Used
 •	Python 3 for game logic and interface
 •	OpenAI GPT API for story generation
 •	Optional: Flask / Streamlit for building a web interface
 •	dotenv for managing environment variables
+
 🚧 Roadmap
 •	Combat system with dice mechanics
 •	Map and visual dungeon navigation
@@ -64,6 +68,7 @@ DM: As you approach, the rune hums louder. Suddenly, the floor gives way beneath
 •	Voice command input (STT)
 •	Character classes and leveling
 •	World generation and quests
+
 🤝 Contributing
 We welcome contributions, feature suggestions, and bug reports!
 
@@ -73,10 +78,12 @@ To contribute:
 3. Make your changes and commit: `git commit -m 'Add your feature'`
 4. Push to your branch: `git push origin feature/your-feature-name`
 5. Open a Pull Request
+
 📫 Connect with the Developer
 🧑‍💻 Siddhant Ojha
 🌐 GitHub: https://github.com/siddhantp011
 💼 LinkedIn: https://www.linkedin.com/in/siddhant-ojha-27b59021a/
+
 🛡️ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 “In the shadows of the dungeon, your story awaits. Dare to enter?”
